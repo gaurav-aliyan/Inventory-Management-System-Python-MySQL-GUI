@@ -51,7 +51,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Inventory-Management-System-Python-MySQL-GUI.git
+git clone (https://github.com/gaurav-aliyan/Inventory-Management-System-Python-MySQL-GUI/blob/main/INVENTORY.py)
 cd Inventory-Management-System-Python-MySQL-GUI
 Install Dependencies
 
